@@ -23,7 +23,7 @@ import java.net.URL;
 public class Code extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 	private static final String API_URL = "https://api.openai.com/v1/chat/completions";
-    private static final String API_KEY = "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";
+    private static final String API_KEY = null;
        
     /**
      * @see HttpServlet#HttpServlet()
