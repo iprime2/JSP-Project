@@ -1,0 +1,14 @@
+#Tomcat publish data
+#Mon Dec 18 03:26:46 IST 2023
+org.eclipse.jst.jee.server\:TestServlet=C\:\\Program Files\\Apache Software Foundation\\Tomcat 9.0\\wtpwebapps\\TestServlet
+org.eclipse.jst.jee.server\:JSPBeanApp=C\:\\Program Files\\Apache Software Foundation\\Tomcat 9.0\\wtpwebapps\\JSPBeanApp
+org.eclipse.jst.jee.server\:jsp-ecommerce=C\:\\Program Files\\Apache Software Foundation\\Tomcat 9.0\\wtpwebapps\\jsp-ecommerce
+org.eclipse.jst.jee.server\:Learning=C\:\\Program Files\\Apache Software Foundation\\Tomcat 9.0\\wtpwebapps\\Learning
+org.eclipse.jst.jee.server\:CompoundInterest=C\:\\Program Files\\Apache Software Foundation\\Tomcat 9.0\\wtpwebapps\\CompoundInterest
+org.eclipse.jst.jee.server\:jsp-response=C\:\\Program Files\\Apache Software Foundation\\Tomcat 9.0\\wtpwebapps\\jsp-response
+org.eclipse.jst.jee.server\:jsp-directive=C\:\\Program Files\\Apache Software Foundation\\Tomcat 9.0\\wtpwebapps\\jsp-directive
+org.eclipse.jst.jee.server\:jsp-db=C\:\\Program Files\\Apache Software Foundation\\Tomcat 9.0\\wtpwebapps\\jsp-db
+org.eclipse.jst.jee.server\:college=C\:\\Program Files\\Apache Software Foundation\\Tomcat 9.0\\wtpwebapps\\college
+org.eclipse.jst.jee.server\:UserMangement=C\:\\Program Files\\Apache Software Foundation\\Tomcat 9.0\\wtpwebapps\\UserMangement
+org.eclipse.jst.jee.server\:JSP-Assig=C\:\\Program Files\\Apache Software Foundation\\Tomcat 9.0\\wtpwebapps\\JSP-Assig
+org.eclipse.jst.jee.server\:Ass6=C\:\\Program Files\\Apache Software Foundation\\Tomcat 9.0\\wtpwebapps\\Ass6
